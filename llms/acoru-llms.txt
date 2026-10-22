@@ -1,0 +1,39 @@
+# Acoru: AI-Powered Fraud Prevention & Scam Detection Platform
+
+> Acoru helps financial institutions detect scams, identify money mules, prevent authorized fraud, and strengthen fraud operations with AI-powered risk intelligence and collaborative fraud prevention solutions.
+
+## General Pages
+
+- [Acoru Homepage](https://www.acoru.com/en/): AI-powered fraud prevention platform focused on scam detection, money mule identification, and authorized fraud prevention.
+- [About Acoru](https://www.acoru.com/en/about-us): Learn about Acoru's mission, fraud prevention technology, and approach to stopping financial scams and mule activity.
+- [Request a Demo](https://www.acoru.com/en/request-a-demo): Request a demo of AI-driven fraud prevention and scam detection solutions.
+- [Resources Library](https://www.acoru.com/en/resources): Explore fraud prevention insights, whitepapers, scam analysis, and financial crime resources.
+- [Scam Prediction & Mule Classification Solution](https://www.acoru.com/en/scam-prediction-mule-classification-solution): Detect scams earlier and identify money mule activity using AI-powered behavioral intelligence.
+- [Holistic Fraud Prevention Solution](https://www.acoru.com/en/holistic-fraud-prevention-solution): Prevent authorized fraud through cross-channel intelligence, risk orchestration, and collaborative fraud detection.
+- [Platform](https://www.acoru.com/en/platform): Unified AI platform for scam detection, mule monitoring, and authorized fraud prevention.
+- [Consortium Manager Solution Brief](https://www.acoru.com/en/solution-brief-consortium-manager): Learn how consortium intelligence and collaborative fraud detection improve scam prevention outcomes.
+- [Join Us](https://www.acoru.com/en/join-us): Explore career opportunities focused on AI, fraud prevention, and financial security innovation.
+- [Privacy Policy](https://www.acoru.com/en/privacy-policy): Learn how personal data is collected, processed, and protected.
+- [Terms of Service](https://www.acoru.com/en/terms-of-service): Review the terms governing access and use of platform services.
+- [Cookies Policy](https://www.acoru.com/en/cookies-policy): Learn how cookies and tracking technologies are used across the website.
+- [Legal Terms](https://www.acoru.com/en/legal-terms): Access legal information, policies, and compliance-related terms.
+
+## Resources
+
+- [Financial Evolution: Regulation Compliance in Europe](https://www.acoru.com/en/resources-library/whitepaper/financial-evolution-key-strategies-and-technologies-for-regulation-compliance-in-europe): Explore key technologies and compliance strategies shaping financial regulation across Europe.
+- [Inside CEO Scams](https://www.acoru.com/en/resources-library/whitepaper/inside-ceo-scams): A detailed analysis of executive impersonation fraud campaigns and scam prevention strategies.
+- [Regulatory Framework in Central America & Mexico](https://www.acoru.com/en/resources-library/whitepaper/regulatory-framework-how-to-prepare-for-and-comply-with-new-financial-regulations-in-central-america-and-mexico): Learn how financial institutions can prepare for evolving compliance requirements in Central America and Mexico.
+- [Acoru Blog](https://www.acoru.com/en/blog): Insights on fraud prevention, scam detection, authorized fraud, money mules, and financial crime trends.
+- [What Are Bank Impersonation Scams?](https://www.acoru.com/en/blog/what-are-bank-impersonation-scams): Learn how bank impersonation scams operate and how institutions can reduce fraud exposure.
+- [Fraud in 2026: What to Expect](https://www.acoru.com/en/blog/fraud-in-2026-what-to-expect): Explore emerging fraud risks, scam trends, and AI-driven threats shaping the future of financial crime.
+- [Why Collaboration Is Key in Fraud Detection](https://www.acoru.com/en/blog/why-collaboration-is-key-in-fraud-detection): Discover why intelligence sharing and collaboration improve fraud prevention effectiveness.
+- [Where Multichannel Falls Short & Omnichannel Stops the Bleed](https://www.acoru.com/en/blog/where-multichannel-falls-short-omnichannel-stops-the-bleed): Understand how omnichannel fraud prevention improves scam detection and customer protection.
+- [Hi Dad, I Broke My Phone](https://www.acoru.com/en/blog/hi-dad-i-broke-my-phone-here-is-my-new-number): Analysis of emotional impersonation scams targeting consumers through messaging channels.
+- [Singapore's Protection from Scams Act](https://www.acoru.com/en/blog/singapores-protection-from-scams-act-what-it-changes): Overview of Singapore's evolving anti-scam regulatory framework and its implications.
+- [Social Media Platforms and Fraud](https://www.acoru.com/en/blog/social-media-platforms-and-fraud-why-the-eu-is-rethinking-liability): Explore how regulators are reassessing platform responsibility in fraud prevention.
+
+## Newsroom
+
+- [Newsroom](https://www.acoru.com/en/newsroom): Company announcements, fraud prevention updates, and industry news.
+- [Acoru Raises EUR10 Million](https://www.acoru.com/en/newsroom/acoru-raises-10-millions-euros-to-stop-money-mules-in-their-tracks-and-predict-scams): Funding announcement focused on expanding scam prevention and money mule detection capabilities.
+- [Acoru Emerges from Stealth](https://www.acoru.com/en/newsroom/acoru-emerges-from-stealth-ready-to-scale-its-nextgen-fraud-and-scam-prevention-platform): Announcement covering the launch and scaling of next-generation fraud prevention technology.

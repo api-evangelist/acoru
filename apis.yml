@@ -1,25 +1,86 @@
 aid: acoru
+
 name: Acoru
-description: 'Acoru is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by adaraventurepartners) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.acoru.com/hubfs/featured-image-home-02.jpg
+
+description: Acoru provides an AI‑armed account monitoring platform that helps financial institutions stop application fraud, detect money‑mule
+  schemes, and comply with banking regulations. Their solution monitors accounts in real‑time, predicts scams using machine‑learning, and offers
+  actionable alerts for compliance teams. Backed by Adara Venture Partners, Acoru aims to protect both consumers and businesses from sophisticated
+  fraud attacks.
+
 url: https://raw.githubusercontent.com/api-evangelist/acoru/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-21 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-21'
+
 modified: '2026-10-21'
+
 tags:
 - Company
-apis: []
+- FinTech
+- FraudDetection
+- AI
+- AccountMonitoring
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- adaraventurepartners
+
 common:
+- type: LLMsTxt
+  url: llms/acoru-llms.txt
+- type: Hosts
+  url: hosts/acoru-hosts.yml
+- type: Vendors
+  url: vendors/acoru-vendors.yml
+- type: TrustCenter
+  url: https://trust.acoru.com
+- type: TermsOfService
+  url: https://www.acoru.com/en/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.acoru.com/en/privacy-policy
+- type: Newsroom
+  url: https://www.acoru.com/en/newsroom
+- type: Blog
+  url: https://www.acoru.com/en/blog
+- type: Documentation
+  url: https://doc.acoru.com/
+- type: DomainSecurity
+  url: security/acoru-domain-security.yml
 - type: Website
   url: https://www.acoru.com
+
+apis:
+- name: Acoru API
+  description: Acoru provides AI‑armed account monitoring APIs as described in their product documentation.
+  humanURL: https://doc.acoru.com/
+  aid: acoru:acoru-api
+
+x-backed-by:
+- adaraventurepartners
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: Documentation pages require authentication, preventing access to any OpenAPI spec.
+  evidence:
+  - url: https://doc.acoru.com/prod/
+    status: 401
+  checked: '2026-10-21'
+x-enrichment:
+  date: '2026-10-21'
+  status: enriched
+  artifacts_added: 9
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
